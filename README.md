@@ -12,6 +12,7 @@
 - **Traducción y adaptación:** Zagon
 - **Corrección**: ??
 - **Typesetting**: MrMiniblock
+- **Timing**: PerryMason
 - **KFX:** ??
 - **Encode:** iTunes HK?
 
