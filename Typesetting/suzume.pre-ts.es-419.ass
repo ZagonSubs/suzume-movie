@@ -9,16 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 802
 
-[Aegisub Project Garbage]
-Audio File: Suzume.2022.1080p.iT.WEB-DL.DD5.1.H.264-ZigZag.mkv
-Video File: Suzume.2022.1080p.iT.WEB-DL.DD5.1.H.264-ZigZag.mkv
-Video AR Mode: 4
-Video AR Value: 2.394015
-Video Zoom Percent: 0.500000
-Scroll Position: 64
-Active Line: 65
-Video Position: 7168
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Google Sans Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H32000000,0,0,0,0,94,100,0,0,1,3.9,0,2,150,150,45,1
@@ -34,7 +24,7 @@ Comment: 0,0:08:53.38,0:08:54.50,Default,,0,0,0,,AVISO DE TERREMOTO
 Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(652.54,662.55)}EN VIVO
 Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(617.31,166.3)}[EN VIVO] Información del terremoto
 Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(807.87,227.13)}Sismo de 6 grados en Miyazaki
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(763.03,494.46)}Al rededor de las 1:20 PM
+Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(763.03,494.46)}Alrededor de las 1:20 PM
 Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(772.64,544.08)}6.3 grados Richter
 Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(806.27,609.71)}Intensidad\Ndel terremoto
 Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(601.87,279.13)}REPORTE\NESPECIAL
@@ -45,7 +35,7 @@ Comment: 0,0:24:18.85,0:24:21.85,Default,,0,0,0,,{\fs40\pos(897.2,149.4)}Este ga
 Comment: 0,0:24:18.88,0:24:21.85,Default,,0,0,0,,{\fs40\pos(1066.94,784.91)}No recordaba que el lugar fuera tan grande {?}
 Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(955.2,521.68)}Es tan lindo...\NHa estado junto a mí por bastante tiempo\N#ConDaijin
 Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(473.2,150.29)}Cancelar
-Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(758.24,254.34)}Responder al Tweet anterior {check pls, no uso la app del pájaro en español}
+Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(758.24,254.34)}Responder al Tweet anterior {check pls, no uso la app del pajaro en español}
 Comment: 0,0:24:40.40,0:24:41.06,Default,,0,0,0,,{\pos(247.41,289.57)}Tu historia {sonido de Twitter en Instagram}
 Comment: 0,0:24:41.06,0:24:41.73,Default,,0,0,0,,{\pos(987.22,428.84)}Tweet enviado. {sonido de iOS en Android}
 Comment: 0,0:24:41.06,0:24:41.73,Default,,0,0,0,,{\pos(1033.67,694.57)}Miren a este hermoso gato!!\NSus bigotes se parecen al de un ministro
@@ -91,3 +81,83 @@ Comment: 0,0:24:49.86,0:24:50.38,Default,,0,0,0,,{\fs40\pos(606.11,97.47)}Hermos
 Comment: 0,0:24:49.86,0:24:50.38,Default,,0,0,0,,{\fs40\pos(956.8,123.08)}#ConDaijin
 Comment: 0,0:24:50.58,0:24:52.15,Default,,0,0,0,,{\fs40\pos(638.13,105.48)}Es astuto...
 Comment: 0,0:24:50.58,0:24:52.15,Default,,0,0,0,,{\fs40\pos(1115.33,127.88)}#ConDaijin
+Comment: 0,0:25:22.92,0:25:24.13,Default,,0,0,0,,[I JUST SAW SOMETHING CRAZY!]
+Comment: 0,0:25:24.38,0:25:25.21,Default,,0,0,0,,[I SAW IT TOO!]
+Comment: 0,0:25:25.46,0:25:26.29,Default,,0,0,0,,[MYSTERY GIRL AND MOVING CHAIR]
+Comment: 0,0:25:26.63,0:25:27.13,Default,,0,0,0,,[NEW ROBOT FROM BOST*N DYNAMICS...?!]
+Comment: 0,0:25:27.42,0:25:28.38,Default,,0,0,0,,[SEND ME INFO!]
+Comment: 0,0:25:54.40,0:25:57.65,Default,,0,0,0,,["DAIJIN" APPEARS ON TANGERINE FARM\N#WithDaijin]
+Comment: 0,0:28:21.50,0:28:22.96,Default,,0,0,0,,flojera
+Comment: 0,0:28:47.13,0:28:49.58,Default,,0,0,0,,{\fs40\pos(1291.48,283.17)}Escuela primaria Kasuga
+Comment: 0,0:32:00.27,0:32:11.02,Default,,0,0,0,,{\fs30\pos(801.46,777.81)}Gerente de\NAsuntos Generales
+Comment: 0,0:32:18.77,0:32:20.02,Default,,0,0,0,,{\fs40\pos(698.98,105.48)}Por favor, no dejes de escribirme.
+Comment: 0,0:32:18.77,0:32:20.02,Default,,0,0,0,,{\fs40\pos(753.43,316.79)}Llamada de voz
+Comment: 0,0:32:18.77,0:32:18.96,Default,,0,0,0,,{\fs40\pos(819.08,600.13)}¡Disculpa por colgarte!
+Comment: 0,0:32:18.96,0:32:20.02,Default,,0,0,0,,{\fs40\pos(1286.67,504.08)}¡Disculpa por colgarte!
+Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1229.02,441.64)}¡Estoy bien!
+Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1126.53,585.71)}¡Volveré a casa sana y salva!
+Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1027.25,345.6)}¡Disculpa por colgarte!
+Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(905.56,185.52)}Llamada de voz
+Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(839.9,68.66)}Por favor, no dejes de escribirme.
+Comment: 0,0:32:26.21,0:32:27.78,Default,,0,0,0,,{\fs40\pos(1126.53,585.71)}¡No te preocupes, por favor!
+Comment: 0,0:32:29.50,0:32:30.52,Default,,0,0,0,,{\fs30\pos(931.17,587.31)}Visto {leído?}
+Comment: 0,0:33:34.94,0:33:40.69,Default,,0,0,0,,{\fs50\pos(491.67,166.5)}Tamaki-san
+Comment: 0,0:33:34.94,0:33:38.96,Default,,0,0,0,,{\pos(1194.18,651.54)}鈴芽、口うるさいと思われたくはな いけれど、いろいろ考えた末、やっ ぱり鈴芽には分かってもらいたい と思い、これを書いています。 最後 まで読んでもらえると嬉しいです。 まず鈴芽に理解してほしいのは、 あなたはまだ子供、 未成年だとい うことです。 鈴芽はちゃんとしっ かりした子だとは思うけれど、 - 般的にも経済的にも身体的にも、 17歳というのはやはりまだ子供です。 あなたは未成年であり、 色々な考え方はあると思うけれ ど、私はあなたの保護者であり、 法的な監督責任があります。 た とえ法律が関係なくても、私に とってあなたはなによりも大事な 姪であり、 鈴芽がきちんとした 大人になるまで、私には鈴芽を そばで見守る義務があります。 なので、保護者である私は口う るさいことも言うし、 あなたの生活にも干渉する。 わずらわし いかもしれないし過保護にもほ どがあると感じるかもしれませ んが、すべてあなたを思っての ことだと理解してください。\N\Nだからこそ、心を鬼にして言いま すが、この2日間のあなたの身勝 手な行動でまわりにどれだけの 迷惑や心配をかけているか、あな たはわかっているでしょうか。 急 に絢ちゃんの家に泊まるとはい え、絢ちゃん家にだって都合が あるだろうし、今日なんて無断るなんて、心底驚きました。 いつ からあなたはそこまで自分勝手 な子になってしまったのですか。 お友達や学校に迷惑をかけてま で遊び回って、そんなに面白いで すか。 どうしてしまったのですか。 なにより、玄関の男物の靴の件で すが、やっぱり、 誰か変な男の人 と付き合ったりしていませんか? さっきの電話で旅行と言っていま したが、まさかその男の人と一緒 にいたりしないですよね? 昨日家を飛び出してから、 あなたが騒ぎ ながらあちこち走り回っていたと いう話も聞きましたが、 なにか変 なクスリとかやらされていないで すよね?\N\Nましてや、あんな大きな地震の 後です。 けがはしていないと言っ ていましたが、 救急箱のこととい い 階段には血の跡もあったし、 鈴芽がなにか危険な目に遭って いるのではないかと思うと、 心 配で仕方がありません。 それは あなたにもわかりますよね?\Nあなたの交友関係にまで口を出 したくはないし、その人がどうい う人なのかも知りませんが、 保 護者に黙って女の子を連れ出す ような男にろくな人はいません。\Nいつも言っていますが、世の中に は鈴芽のような子を狙って騙し てくる危ない男が多いということ を忘れないでください。 いまは 楽しいかもしれませんが、あとで 後悔するのはあなたです。 あな たにはそんな思いをしてほしく ない。 今ならまだ引き返せるは ずだから、私のこのLINEをよ 読んで、もう一度考えてください 私は鈴芽を信じているし、鈴芽が大丈夫と言うのなら、あなたが自 分のふるまいを反省して、 明日に は自分から帰ってくるのを待って いようと思います。\N最後に。 面倒くさいかもしれませ んが、 私からの電話は必ず出て、 LINEもちゃんと見るように。 帰っ てきたら、全部きちんと説明して ください。
+Comment: 0,0:33:38.96,0:33:40.69,Default,,0,0,0,,Zagon, [13 Jul 2023 00:38:56]\N追伸、私は怒っているわけではあ りません。 ただ混乱して心配して いるんです。\N\Nなぜあなたはそんなそぶりもない ままに急に旅行に行こうなんて\N\NZagon, [13 Jul 2023 00:39:19]\Nたのですか。\N\NZagon, [13 Jul 2023 00:39:30]\Nなのでしょうか。 そんな\N\NZagon, [13 Jul 2023 00:39:37]\Nたことはないし、\N\NZagon, [13 Jul 2023 00:39:49]\Nは必ずしも\N\NZagon, [13 Jul 2023 00:39:56]\Nかった。
+Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(1270.66,150.3)}Sorpresa
+Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(405.93,188.72)}Clima
+Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(412.34,123.09)}Kagawa
+Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(1530.08,115.08)}¡¿Un gato en el puente Akashi Kaikyo?!
+Comment: 0,0:37:09.42,0:37:12.40,Default,,0,0,0,,{\fs40\pos(838.3,153.5)}¡¿Un gato en el puente Akashi Kaikyo?!
+Comment: 0,0:37:59.21,0:38:00.21,Default,,0,0,0,,{\pos(1304.29,598.52)}HACIA\NKOBE
+Comment: 0,0:39:52.58,0:39:53.38,Default,,0,0,0,,[EHIME]
+Comment: 0,0:39:53.58,0:39:54.38,Default,,0,0,0,,[TOKUSHIMA]
+Comment: 0,0:40:01.08,0:40:04.63,Default,,0,0,0,,[KOBE]
+Comment: 0,0:42:12.31,0:42:14.25,Default,,0,0,0,,[BAR HARBOR]
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(1012.84,123.08)}Historial de transacciones
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(976.01,255.95)}MCD Kobe Suma
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(929.58,369.61)}Estación Iyo-Ozu
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(903.96,488.07)}LS Ozu
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(876.74,596.93)}Estación Yawatahama
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(881.55,718.59)}Ferry Shikoku Mikan
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(775.05,805.2)}Shikoku
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(769.45,199.94)}Compra
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(657.36,670.57)}Compra
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(631.74,784.23)}Compra
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(734.23,328)}Boleto
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(684.59,569.71)}Boleto
+Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(697.4,436.85)}Compra
+Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\pos(281.03,110.28)\fs40}AVISO DE CIERRE
+Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs40\pos(317.86,193.52)}Gracias por estos maravillosos 40 años
+Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs30\pos(335.48,438.45)}El parque de diversiones\NKobe Dream Country{check} ha cerrado\Nsus puertas el 31 de agosto del 2011\Ntras 40 años de operaciones.\NMuchas gracias a todos los que\Nnos apoyaron a lo largo de estos años.
+Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs30\pos(434.76,499.28)}La administración
+Comment: 0,0:59:22.94,0:59:24.75,Default,,0,0,0,,{\pos(899.15,377.61)}ARTES SECRETAS\NDE LOS CERRADORES\N\NVOL. 1
+Comment: 0,1:00:22.69,1:00:23.58,Default,,0,0,0,,DIARIO DE LOS CERRADORES
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1818.32,446.8)}Respuestas de exámenes de primaria
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1834.33,118.64)}Para\Nprofesores
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1661.39,273.92)}Enseñanza general
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1571.72,277.12)}Enseñanza general
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1549.56,562.59)}Tokio
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1637.38,550.86)}Tokio
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1340.25,369.68)}Preparación para docentes
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1196.35,372.34)}Preparación para docentes
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1095.09,371.01)}Preparación para docentes
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(988.5,367.01)}Preparación para docentes
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(880.57,373.67)}Preparación para docentes
+Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(769.98,405.64)}Preparación para docentes {me da flojera continuar, más tarde lo hago}
+Comment: 0,1:02:10.19,1:02:11.38,Default,,0,0,0,,{\fs50\pos(1007.18,431.05)}ALERTA DE TERREMOTO
+Comment: 0,1:02:10.19,1:02:11.38,Default,,0,0,0,,{\fs40\pos(1008.61,578.3)}Sistema de alertas tempranas\NTerremoto en Chiyoda-ku, Tokio.\NPrepárese para un terremoto fuerte.
+Comment: 0,1:04:53.96,1:04:54.50,Default,,0,0,0,,{\fs50\pos(741.27,411.04)}ALERTA DE TERREMOTO
+Comment: 0,1:04:53.96,1:04:54.50,Default,,0,0,0,,{\fs40\pos(772.72,546.85)}Sistema de alertas tempranas\NTerremoto en Chiyoda-ku, Tokio.\NPrepárese para un terremoto fuerte.
+Comment: 0,1:15:54.21,1:15:56.04,Default,,0,0,0,,{\pos(1137.27,438.21)}HITSUJIRO MUNAKATA
+Comment: 0,1:25:23.08,1:25:24.21,Default,,0,0,0,,SUELO\NCONTANIMADO
+Comment: 0,1:25:25.54,1:25:26.79,Default,,0,0,0,,ZONA DE EVACUACIÓN MÁS ADELANTE
+Comment: 0,1:25:50.88,1:25:52.33,Default,,0,0,0,,[EARTHQUAKE WARNING INTENSITY 3.0]
+Comment: 0,1:29:59.00,1:30:00.19,Default,,0,0,0,,[EARTHQUAKE WARNING INTENSITY 3.0]
+Comment: 0,1:38:07.90,1:38:13.65,Default,,0,0,0,,COSAS IMPORTANTES DE SUZUME
+Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\pos(759.82,222.91)}Diario {ilustrado}
+Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(834.67,694.36)}Libros de estudio Japonica
+Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(688.45,605.64)}Le pertenece a
+Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(825.97,645.65)}Suzume
+Comment: 0,1:38:27.90,1:38:36.90,Default,,0,0,0,,{\pos(1214.14,306.42)}11 de marzo
+Comment: 0,1:56:02.50,1:56:05.13,Default,,0,0,0,,{\fs40\pos(738.93,515.18)}Cómo ser una enfermera
