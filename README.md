@@ -13,7 +13,7 @@
 - **Corrección**: ??
 - **Typesetting**: MrMiniblock
 - **Timing**: PerryMason
-- **KFX:** ??
+- **KFX:** Hime
 - **Encode:** iTunes HK?
 
 ---
