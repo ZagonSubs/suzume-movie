@@ -9,17 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 802
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: Suzume.no.Tojimari.2022.1080p.iT.WEB-DL.DD5.1.H.264-ZigZag.mkv
-Video File: Suzume.no.Tojimari.2022.1080p.iT.WEB-DL.DD5.1.H.264-ZigZag.mkv
-Video AR Mode: 4
-Video AR Value: 2.394015
-Video Zoom Percent: 0.500000
-Scroll Position: 1967
-Active Line: 1968
-Video Position: 21901
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Google Sans Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H32000000,0,0,0,0,94,100,0,0,1,3.9,0,2,150,150,45,1
@@ -236,11 +225,11 @@ Dialogue: 0,0:16:50.67,0:16:51.27,Default,,0,0,0,,Me agradas.
 Dialogue: 0,0:16:53.77,0:16:55.77,Default,,0,0,0,,Tú... estás en mi camino.
 Comment: 0,0:17:00.63,0:17:03.46,Default,,0,0,0,,¡¿Qué?! {maybe TS it?}
 Dialogue: 0,0:17:02.63,0:17:03.73,Default,,0,0,0,,¡¿Qué?!
-Dialogue: 0,0:17:03.73,0:17:05.37,Default,,0,0,0,,¿Souta? ¿Dónde estás?
+Dialogue: 0,0:17:03.73,0:17:05.37,Default,,0,0,0,,¿Souta-san? ¿Dónde estás?
 Dialogue: 0,0:17:14.64,0:17:15.69,Default,,0,0,0,,¿Qué...
 Dialogue: 0,0:17:16.05,0:17:17.23,Default,,0,0,0,,demonios?
 Dialogue: 0,0:17:17.23,0:17:18.70,Default,,0,0,0,,¡¿Qué?!
-Dialogue: 0,0:17:18.70,0:17:20.56,Default,,0,0,0,,¿Souta?
+Dialogue: 0,0:17:18.70,0:17:20.56,Default,,0,0,0,,¿Souta-san?
 Dialogue: 0,0:17:20.56,0:17:22.55,Default,,0,0,0,,Suzume-san...
 Dialogue: 0,0:17:22.55,0:17:23.64,Default,,0,0,0,,¿Qué me está...?
 Dialogue: 0,0:17:26.18,0:17:26.98,Default,,0,0,0,,¡¿Fuiste tú?!
@@ -266,8 +255,7 @@ Dialogue: 0,0:18:21.13,0:18:22.10,Default,,0,0,0,,¡Disculpen!
 Dialogue: 0,0:18:24.08,0:18:26.69,Default,,0,0,0,,¿Qué rayos está pasando?
 Dialogue: 0,0:18:35.63,0:18:38.33,Default,,0,0,0,,¡Hola, Suzume-chan!
 Dialogue: 0,0:18:39.13,0:18:40.72,Default,,0,0,0,,¡Hola!
-Dialogue: 0,0:18:40.72,0:18:41.99,Default,,0,0,0,,¡¿A dónde
-Dialogue: 0,0:18:41.99,0:18:43.19,Default,,0,0,0,,estás yendo?!
+Dialogue: 0,0:18:40.72,0:18:43.19,Default,,0,0,0,,¡¿A dónde estás yendo?!
 Dialogue: 0,0:18:46.24,0:18:47.34,Default,,0,0,0,,¿Qué...?
 Dialogue: 0,0:18:49.95,0:18:51.38,Default,,0,0,0,,¡Ay!
 Dialogue: 0,0:18:52.26,0:18:54.87,Default,,0,0,0,,¡Discúlpenme!
@@ -322,7 +310,7 @@ Dialogue: 0,0:21:05.54,0:21:07.80,Default,,0,0,0,,¿Duele?
 Dialogue: 0,0:21:07.80,0:21:09.26,Default,,0,0,0,,Estoy bien.
 Dialogue: 0,0:21:10.50,0:21:11.19,Default,,0,0,0,,Estás tibio.
 Dialogue: 0,0:21:12.00,0:21:14.71,Default,,0,0,0,,Pero, tengo que resolverlo.
-Dialogue: 0,0:21:15.55,0:21:20.13,Default,,0,0,0,,Oye, Souta, hay algo que me\Ninquieta mucho.
+Dialogue: 0,0:21:15.55,0:21:20.13,Default,,0,0,0,,Oye, Souta-san, hay algo que me\Ninquieta mucho.
 Dialogue: 0,0:21:21.40,0:21:23.15,Default,,0,0,0,,¿Una reliquia en las ruinas?
 Dialogue: 0,0:21:23.15,0:21:24.44,Default,,0,0,0,,¡Ese es el Puntal!
 Dialogue: 0,0:21:24.44,0:21:25.66,Default,,0,0,0,,¿Lo moviste?
@@ -339,7 +327,7 @@ Dialogue: 0,0:21:46.13,0:21:46.83,Default,,0,0,0,,Nada.{No.}
 Dialogue: 0,0:21:47.41,0:21:50.82,Default,,0,0,0,,Es mi culpa no encontrar la puerta antes.
 Dialogue: 0,0:21:50.82,0:21:51.91,Default,,0,0,0,,No es tu culpa.
 Dialogue: 0,0:21:51.91,0:21:52.83,Default,,0,0,0,,Pero...
-Dialogue: 0,0:21:52.83,0:21:55.53,Default,,0,0,0,,Suzume, yo soy un Cerrador.
+Dialogue: 0,0:21:52.83,0:21:55.53,Default,,0,0,0,,Suzume-san, yo soy un Cerrador.
 Dialogue: 0,0:21:55.53,0:21:56.69,Default,,0,0,0,,¿Un Cerrador?
 Dialogue: 0,0:21:57.14,0:22:01.44,Default,,0,0,0,,Cierro puertas abiertas para\Nque el desastre no se expanda.
 Dialogue: 0,0:22:01.44,0:22:03.84,Default,,0,0,0,,Viajo por todo Japón haciendo eso.
@@ -392,7 +380,7 @@ Dialogue: 0,0:24:30.85,0:24:31.60,Default,,0,0,0,,¿Daijin?
 Dialogue: 0,0:24:31.60,0:24:33.35,Default,,0,0,0,,Pareces un gato refinado.
 Dialogue: 0,0:24:43.17,0:24:44.85,Default,,0,0,0,,Es él, ¿verdad?
 Dialogue: 0,0:24:44.85,0:24:45.90,Default,,0,0,0,,¿Cómo...?
-Comment: 0,0:24:52.88,0:24:55.34,Default,,0,0,0,,¿Daijin?
+Dialogue: 0,0:24:51.00,0:24:52.15,Default,,0,0,0,,¿Daijin?
 Dialogue: 0,0:24:52.88,0:24:55.34,Default,,0,0,0,,Como que sí está...
 Dialogue: 0,0:24:55.34,0:24:56.70,Default,,0,0,0,,Está viajando en tren.
 Dialogue: 0,0:24:56.70,0:24:57.65,Default,,0,0,0,,Tengo que ir tras él.
@@ -522,7 +510,7 @@ Dialogue: 0,0:31:43.78,0:31:45.88,Default,,0,0,0,,Más te vale estar en casa ma�
 Dialogue: 0,0:31:45.88,0:31:47.33,Default,,0,0,0,,¿Dónde pasarás la noche?
 Dialogue: 0,0:31:47.33,0:31:49.58,Default,,0,0,0,,Vamos, Minoru, tenemos reservación.
 Dialogue: 0,0:31:49.58,0:31:51.50,Default,,0,0,0,,Vayan yendo, los alcanzaré luego.
-Dialogue: 0,0:31:51.50,0:31:53.27,Default,,0,0,0,,Invitaré a Tamaki.
+Dialogue: 0,0:31:51.50,0:31:53.27,Default,,0,0,0,,Invitaré a Tamaki-san.
 Dialogue: 0,0:31:53.72,0:31:55.65,Default,,0,0,0,,¡No estoy hablando de eso!
 Dialogue: 0,0:31:55.65,0:31:57.02,Default,,0,0,0,,¿Y tus estudios?
 Dialogue: 0,0:31:58.26,0:32:00.27,Default,,0,0,0,,Suzume está en su etapa rebelde, ¿eh?
@@ -531,7 +519,7 @@ Dialogue: 0,0:32:01.44,0:32:03.24,Default,,0,0,0,,dime en dónde pasarás la noc
 Dialogue: 0,0:32:03.24,0:32:06.24,Default,,0,0,0,,Y más te vale estar sola, jovencita.
 Dialogue: 0,0:32:09.90,0:32:11.02,Default,,0,0,0,,Minoru...
 Dialogue: 0,0:32:11.02,0:32:12.27,Default,,0,0,0,,¿Qué tanto me miras?
-Dialogue: 0,0:32:12.27,0:32:15.18,Default,,0,0,0,,Es que Shige hizo una reservación...
+Dialogue: 0,0:32:12.27,0:32:15.18,Default,,0,0,0,,Es que Shige-san hizo una reservación...
 Dialogue: 0,0:32:15.18,0:32:16.52,Default,,0,0,0,,¿Eh? ¿En dónde...?
 Dialogue: 0,0:32:16.52,0:32:18.77,Default,,0,0,0,,No puede ser...
 Dialogue: 0,0:32:34.66,0:32:35.27,Default,,0,0,0,,¿Sí?
@@ -582,7 +570,7 @@ Dialogue: 0,0:34:28.03,0:34:29.69,Default,,0,0,0,,¿Tú ya tuviste uno, Chika?
 Dialogue: 0,0:34:30.13,0:34:30.87,Default,,0,0,0,,¿Quieres saber?
 Dialogue: 0,0:34:30.87,0:34:32.69,Default,,0,0,0,,¡No quiere!
 Dialogue: 0,0:34:30.87,0:34:32.69,Default,,0,0,0,,{\an8}¡No quiere saber!
-Dialogue: 0,0:34:33.30,0:34:35.19,Default,,0,0,0,,¿Por qué van a limpiar el baño ahora?
+Dialogue: 0,0:34:33.30,0:34:35.19,Default,,0,0,0,,¿Por qué no van a limpiar el baño ahora?
 Dialogue: 0,0:34:35.99,0:34:37.43,Default,,0,0,0,,¡¿En serio te hizo eso?!
 Dialogue: 0,0:34:37.43,0:34:38.67,Default,,0,0,0,,¿De verdad?
 Dialogue: 0,0:34:38.67,0:34:39.70,Default,,0,0,0,,Por supuesto.
@@ -625,12 +613,12 @@ Dialogue: 0,0:36:29.73,0:36:32.18,Default,,0,0,0,,{\i1}No se sabe de donde sali�
 Dialogue: 0,0:36:32.18,0:36:35.23,Default,,0,0,0,,{\i1}pero está cruzando por los cables de un puente.
 Comment: 0,0:36:35.67,0:36:36.92,Default,,0,0,0,,Uhhh...
 Dialogue: 0,0:36:37.01,0:36:38.23,Default,,0,0,0,,¿No es increíble?
-Dialogue: 0,0:36:39.96,0:36:41.98,Default,,0,0,0,,¡Oye, Souta!
+Dialogue: 0,0:36:39.96,0:36:41.98,Default,,0,0,0,,¡Oye, Souta-san!
 Dialogue: 0,0:36:43.01,0:36:45.71,Default,,0,0,0,,¡Despierta!
 Comment: 0,0:36:47.46,0:36:48.71,Default,,0,0,0,,¡Ay!
 Dialogue: 0,0:36:58.50,0:36:59.60,Default,,0,0,0,,Espera.
 Dialogue: 0,0:37:00.22,0:37:01.66,Default,,0,0,0,,¿Dónde está su boca?
-Dialogue: 0,0:37:02.64,0:37:03.86,Default,,0,0,0,,¿Suzume?
+Dialogue: 0,0:37:02.64,0:37:03.86,Default,,0,0,0,,¿Suzume-san?
 Dialogue: 0,0:37:05.63,0:37:06.52,Default,,0,0,0,,Buenos días.
 Dialogue: 0,0:37:06.52,0:37:07.71,Default,,0,0,0,,¿Qué pasa?
 Dialogue: 0,0:37:07.71,0:37:09.10,Default,,0,0,0,,¡No digas eso!
@@ -641,8 +629,8 @@ Dialogue: 0,0:37:12.89,0:37:15.43,Default,,0,0,0,,Los dioses hacen lo que quiere
 Dialogue: 0,0:37:15.43,0:37:16.15,Default,,0,0,0,,¿Dioses?
 Dialogue: 0,0:37:16.15,0:37:18.40,Default,,0,0,0,,Ese puente lleva a Kobe.
 Dialogue: 0,0:37:18.40,0:37:19.54,Default,,0,0,0,,Deberíamos...
-Dialogue: 0,0:37:19.54,0:37:20.26,Default,,0,0,0,,Suzume.
-Dialogue: 0,0:37:20.26,0:37:21.90,Default,,0,0,0,,Ya te vas, ¿no?
+Dialogue: 0,0:37:19.54,0:37:20.26,Default,,0,0,0,,{\i1}Suzume.
+Dialogue: 0,0:37:20.26,0:37:21.90,Default,,0,0,0,,{\i1}Ya te vas, ¿no?
 Dialogue: 0,0:37:22.89,0:37:24.44,Default,,0,0,0,,Sí, solo me estoy vistiendo.
 Dialogue: 0,0:37:24.44,0:37:25.95,Default,,0,0,0,,Perfecto.
 Dialogue: 0,0:37:25.95,0:37:27.64,Default,,0,0,0,,Usa estos, si quieres.
@@ -654,7 +642,7 @@ Dialogue: 0,0:37:38.81,0:37:40.45,Default,,0,0,0,,No te preocupes.
 Dialogue: 0,0:37:40.45,0:37:41.97,Default,,0,0,0,,Solo visitanos pronto.
 Dialogue: 0,0:37:41.97,0:37:42.78,Default,,0,0,0,,Sí.
 Dialogue: 0,0:37:42.78,0:37:44.40,Default,,0,0,0,,Lo prometo.
-Dialogue: 0,0:38:00.37,0:38:01.39,Default,,0,0,0,,Suzume...
+Dialogue: 0,0:38:00.37,0:38:01.39,Default,,0,0,0,,Suzume-san...
 Dialogue: 0,0:38:01.39,0:38:03.40,Default,,0,0,0,,Debes de ser más clara.
 Dialogue: 0,0:38:03.79,0:38:05.90,Default,,0,0,0,,Mueve tus brazos o algo.
 Dialogue: 0,0:38:05.90,0:38:08.90,Default,,0,0,0,,Tú haz eso para que se asusten y paren.
@@ -663,7 +651,7 @@ Dialogue: 0,0:38:10.69,0:38:12.33,Default,,0,0,0,,Qué bueno.
 Dialogue: 0,0:38:12.33,0:38:13.90,Default,,0,0,0,,Hazlo tú.
 Dialogue: 0,0:38:22.80,0:38:24.15,Default,,0,0,0,,¿No podemos ir en bus?
 Dialogue: 0,0:38:25.95,0:38:28.15,Default,,0,0,0,,El próximo bus llega en seis horas.
-Dialogue: 0,0:38:30.32,0:38:31.65,Default,,0,0,0,,Suzume.
+Dialogue: 0,0:38:30.32,0:38:31.65,Default,,0,0,0,,Suzume-san.
 Dialogue: 0,0:38:31.65,0:38:35.24,Default,,0,0,0,,Dijiste que esta silla es un\Nrecuerdo de tu madre, ¿verdad?
 Dialogue: 0,0:38:35.24,0:38:36.92,Default,,0,0,0,,Sí.
 Dialogue: 0,0:38:36.92,0:38:39.29,Default,,0,0,0,,¿Por qué solo tiene tres patas?
@@ -725,7 +713,7 @@ Dialogue: 0,0:41:40.41,0:41:42.06,Default,,0,0,0,,Tú serás en Monte Fuji, ¿ya
 Dialogue: 0,0:41:42.06,0:41:43.81,Default,,0,0,0,,¿Listos? ¡Ya!
 Dialogue: 0,0:41:49.54,0:41:50.81,Default,,0,0,0,,{\an8}¡Ven aquí!
 Dialogue: 0,0:41:50.00,0:41:50.81,Default,,0,0,0,,{\i1}No creo...
-Dialogue: 0,0:41:50.81,0:41:52.77,Default,,0,0,0,,{\an8}¡Ven aquí!
+Dialogue: 0,0:41:50.81,0:41:52.77,Default,,0,0,0,,{\an8}¡Atrápame!
 Dialogue: 0,0:41:51.49,0:41:53.39,Default,,0,0,0,,{\i1}ser buena con los niños.
 Dialogue: 0,0:41:54.18,0:41:55.50,Default,,0,0,0,,Necesitas ayuda.
 Dialogue: 0,0:41:59.69,0:42:01.46,Default,,0,0,0,,¿Qué estás...?
@@ -863,7 +851,7 @@ Dialogue: 0,0:47:33.22,0:47:34.38,Default,,0,0,0,,Sí me puedo mover bien.
 Dialogue: 0,0:47:34.38,0:47:35.69,Default,,0,0,0,,¡Me podría acostumbrar a esto!
 Dialogue: 0,0:47:36.29,0:47:37.69,Default,,0,0,0,,No fallaré otra vez.
 Dialogue: 0,0:47:54.87,0:47:55.77,Default,,0,0,0,,Suzume.
-Dialogue: 0,0:47:55.77,0:47:57.19,Default,,0,0,0,,¡Eres muy buena!
+Dialogue: 0,0:47:55.77,0:47:57.19,Default,,0,0,0,,¡Eres increíble!
 Dialogue: 0,0:48:00.23,0:48:01.23,Default,,0,0,0,,¡Daijin!
 Dialogue: 0,0:48:05.45,0:48:08.98,Default,,0,0,0,,¡Hoy me devolverás mi cuerpo!
 Dialogue: 0,0:48:23.77,0:48:24.98,Default,,0,0,0,,¡Mira, las luces!
@@ -958,7 +946,7 @@ Dialogue: 0,0:53:06.74,0:53:07.73,Default,,0,0,0,,{\an8}¡Le falta su cervecita!
 Dialogue: 0,0:53:08.04,0:53:08.73,Default,,0,0,0,,¿Traigo unas?
 Dialogue: 0,0:53:09.22,0:53:11.09,Default,,0,0,0,,¿Después de tomar toda la noche?
 Dialogue: 0,0:53:11.09,0:53:11.98,Default,,0,0,0,,Claro, ¿por qué no?
-Dialogue: 0,0:53:11.98,0:53:13.63,Default,,0,0,0,,Únetenos, Souta.
+Dialogue: 0,0:53:11.98,0:53:13.63,Default,,0,0,0,,Únetenos, Souta-san.
 Dialogue: 0,0:53:13.75,0:53:15.81,Default,,0,0,0,,No me esperaba lo de la ensalada de papas.
 Dialogue: 0,0:53:14.98,0:53:17.52,Default,,0,0,0,,{\an8}¡Oye! ¡Oye, un rato!
 Dialogue: 0,0:53:15.81,0:53:17.25,Default,,0,0,0,,Le voy a decir a mi novio.
@@ -1003,7 +991,7 @@ Dialogue: 0,0:54:54.70,0:54:57.06,Default,,0,0,0,,{\i1}Frío...
 Dialogue: 0,0:55:12.76,0:55:13.81,Default,,0,0,0,,{\i1}¿Estoy...?
 Dialogue: 0,0:55:25.85,0:55:27.39,Default,,0,0,0,,¿Aquí es donde...
 Dialogue: 0,0:55:27.39,0:55:28.97,Default,,0,0,0,,será mi fin?
-Dialogue: 0,0:55:38.15,0:55:39.48,Default,,0,0,0,,{\i1}¿Souta?
+Dialogue: 0,0:55:38.15,0:55:39.48,Default,,0,0,0,,{\i1}¿Souta-san?
 Dialogue: 0,0:55:39.98,0:55:41.61,Default,,0,0,0,,¿Souta-san?
 Dialogue: 0,0:55:48.09,0:55:49.04,Default,,0,0,0,,Buenos días.
 Dialogue: 0,0:55:49.04,0:55:50.54,Default,,0,0,0,,Te demoraste.
@@ -1198,7 +1186,7 @@ Dialogue: 0,1:03:38.65,1:03:39.35,Default,,0,0,0,,Nopi.
 Dialogue: 0,1:03:39.35,1:03:40.19,Default,,0,0,0,,¡¿Por qué?!
 Dialogue: 0,1:03:40.19,1:03:42.94,Default,,0,0,0,,Aún no lo entiendes, ¿verdad?
 Dialogue: 0,1:03:46.83,1:03:47.76,Default,,0,0,0,,¡¿A dónde te fuiste?!
-Dialogue: 0,1:03:49.09,1:03:49.93,Default,,0,0,0,,¿Souta?
+Dialogue: 0,1:03:49.09,1:03:49.93,Default,,0,0,0,,¿Souta-san?
 Dialogue: 0,1:04:00.55,1:04:01.94,Default,,0,0,0,,El portal de Tokio está...
 Dialogue: 0,1:04:02.65,1:04:03.94,Default,,0,0,0,,¿Ahí?
 Dialogue: 0,1:04:03.94,1:04:06.69,Default,,0,0,0,,¡¿Cómo llegamos ahí?!
@@ -1229,7 +1217,7 @@ Dialogue: 0,1:05:49.10,1:05:51.06,Default,,0,0,0,,¡¿Estás loca?!
 Dialogue: 0,1:05:51.06,1:05:52.35,Default,,0,0,0,,Espera.
 Dialogue: 0,1:05:54.29,1:05:55.77,Default,,0,0,0,,¡Suzume-san!
 Dialogue: 0,1:06:02.82,1:06:03.94,Default,,0,0,0,,¡Voy contigo!
-Dialogue: 0,1:06:10.54,1:06:11.40,Default,,0,0,0,,¿Souta?
+Dialogue: 0,1:06:10.54,1:06:11.40,Default,,0,0,0,,¿Souta-san?
 Dialogue: 0,1:06:11.40,1:06:13.62,Default,,0,0,0,,La superficie es inestable.
 Dialogue: 0,1:06:13.62,1:06:14.65,Default,,0,0,0,,No sueltes.
 Dialogue: 0,1:06:15.33,1:06:16.17,Default,,0,0,0,,Sí.
@@ -1273,7 +1261,7 @@ Dialogue: 0,1:08:33.18,1:08:36.40,Default,,0,0,0,,¿Así es como será mi fin?
 Dialogue: 0,1:08:36.40,1:08:37.92,Default,,0,0,0,,¿Souta-san?
 Dialogue: 0,1:08:37.92,1:08:41.23,Default,,0,0,0,,Pero, porque pude conocerte, yo...
 Dialogue: 0,1:08:42.23,1:08:45.15,Default,,0,0,0,,¿Souta-san? ¡¿Souta-san?!
-Dialogue: 0,1:08:45.15,1:08:46.48,Default,,0,0,0,,¡Oye, Souta!
+Dialogue: 0,1:08:45.15,1:08:46.48,Default,,0,0,0,,¡Oye, Souta-san!
 Dialogue: 0,1:08:47.83,1:08:49.43,Default,,0,0,0,,¡Souta-san!
 Dialogue: 0,1:08:50.55,1:08:52.23,Default,,0,0,0,,Ese ya no es Souta.
 Dialogue: 0,1:08:52.23,1:08:53.75,Default,,0,0,0,,Daijin...
@@ -1431,7 +1419,7 @@ Dialogue: 0,1:19:35.27,1:19:37.81,Default,,0,0,0,,Ha pasado demasiado tiempo.
 Dialogue: 0,1:19:38.34,1:19:41.46,Default,,0,0,0,,Ya veo que al fin eres libre.
 Dialogue: 0,1:19:43.92,1:19:47.06,Default,,0,0,0,,¿Deseas seguir a esa chica?
 Dialogue: 0,1:19:47.44,1:19:50.24,Default,,0,0,0,,Confío todo en ti.
-Dialogue: 0,1:20:29.21,1:20:31.73,Default,,0,0,0,,Usaré tus zapatos, Souta.
+Dialogue: 0,1:20:29.21,1:20:31.73,Default,,0,0,0,,Usaré tus zapatos, Souta-san.
 Dialogue: 0,1:20:45.59,1:20:46.59,Default,,0,0,0,,¡Oye!
 Dialogue: 0,1:20:46.59,1:20:48.48,Default,,0,0,0,,¡Oye, tú!
 Dialogue: 0,1:20:48.48,1:20:50.01,Default,,0,0,0,,¡Suzume-chan!
@@ -1533,7 +1521,7 @@ Dialogue: 0,1:24:33.29,1:24:35.46,Default,,0,0,0,,Han pasado 12 años desde ento
 Dialogue: 0,1:24:35.46,1:24:38.95,Default,,0,0,0,,Me la llevé a Kyushu,\Ny vivimos juntas desde entonces.
 Dialogue: 0,1:24:43.56,1:24:45.56,Default,,0,0,0,,¿Te importa si fumo?
 Dialogue: 0,1:24:46.77,1:24:48.56,Default,,0,0,0,,Es tu carro.
-Dialogue: 0,1:24:49.21,1:24:52.21,Default,,0,0,0,,Entonces, ¿vamos camino\Nal pueblo natal de Suzume?
+Dialogue: 0,1:24:49.21,1:24:52.21,Default,,0,0,0,,Entonces, ¿vamos camino\Nal pueblo natal de Suzume-chan?
 Dialogue: 0,1:24:52.21,1:24:54.18,Default,,0,0,0,,¿Souta va a estar ahí?
 Dialogue: 0,1:24:54.18,1:24:55.19,Default,,0,0,0,,No lo sé...
 Dialogue: 0,1:24:55.19,1:24:58.06,Default,,0,0,0,,No hay nada ahí.
@@ -1829,8 +1817,8 @@ Dialogue: 0,1:44:17.70,1:44:20.44,Default,,0,0,0,,{\i1}¡¿No tienes miedo de mo
 Dialogue: 0,1:44:20.44,1:44:21.44,Default,,0,0,0,,{\i1}¡Claro que no!
 Dialogue: 0,1:44:21.44,1:44:23.33,Default,,0,0,0,,{\i1}¡Somos un gran equipo!
 Dialogue: 0,1:44:23.33,1:44:25.31,Default,,0,0,0,,{\i1}Sí, creo que estoy\Nhaciendo algo importante.
-Dialogue: 0,1:44:25.31,1:44:26.69,Default,,0,0,0,,{\i1}Únetenos, Souta.
-Dialogue: 0,1:44:26.69,1:44:29.35,Default,,0,0,0,,{\i1}Sí que eres popular, Souta.
+Dialogue: 0,1:44:25.31,1:44:26.69,Default,,0,0,0,,{\i1}Únetenos, Souta-san.
+Dialogue: 0,1:44:26.69,1:44:29.35,Default,,0,0,0,,{\i1}Sí que eres popular, Souta-san.
 Dialogue: 0,1:44:29.35,1:44:30.73,Default,,0,0,0,,{\i1}¡Espera!
 Dialogue: 0,1:44:30.73,1:44:32.34,Default,,0,0,0,,¿Estos son...?
 Dialogue: 0,1:44:32.34,1:44:33.23,Default,,0,0,0,,{\i1}Sí...
