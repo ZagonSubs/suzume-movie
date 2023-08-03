@@ -255,8 +255,7 @@ Dialogue: 0,0:18:21.13,0:18:22.10,Default,,0,0,0,,¡Disculpen!
 Dialogue: 0,0:18:24.08,0:18:26.69,Default,,0,0,0,,¿Qué rayos está pasando?
 Dialogue: 0,0:18:35.63,0:18:38.33,Default,,0,0,0,,¡Hola, Suzume!
 Dialogue: 0,0:18:39.13,0:18:40.72,Default,,0,0,0,,¡Hola!
-Dialogue: 0,0:18:40.72,0:18:41.99,Default,,0,0,0,,¡¿A dónde
-Dialogue: 0,0:18:41.99,0:18:43.19,Default,,0,0,0,,estás yendo?!
+Dialogue: 0,0:18:40.72,0:18:43.19,Default,,0,0,0,,¡¿A dónde estás yendo?!
 Dialogue: 0,0:18:46.24,0:18:47.34,Default,,0,0,0,,¿Qué...?
 Dialogue: 0,0:18:49.95,0:18:51.38,Default,,0,0,0,,¡Ay!
 Dialogue: 0,0:18:52.26,0:18:54.87,Default,,0,0,0,,¡Discúlpenme!
@@ -381,7 +380,7 @@ Dialogue: 0,0:24:30.85,0:24:31.60,Default,,0,0,0,,¿Daijin?
 Dialogue: 0,0:24:31.60,0:24:33.35,Default,,0,0,0,,Pareces un gato refinado.
 Dialogue: 0,0:24:43.17,0:24:44.85,Default,,0,0,0,,Es él, ¿verdad?
 Dialogue: 0,0:24:44.85,0:24:45.90,Default,,0,0,0,,¿Cómo...?
-Comment: 0,0:24:52.88,0:24:55.34,Default,,0,0,0,,¿Daijin?
+Dialogue: 0,0:24:51.00,0:24:52.15,Default,,0,0,0,,¿Daijin?
 Dialogue: 0,0:24:52.88,0:24:55.34,Default,,0,0,0,,Como que sí está...
 Dialogue: 0,0:24:55.34,0:24:56.70,Default,,0,0,0,,Está viajando en tren.
 Dialogue: 0,0:24:56.70,0:24:57.65,Default,,0,0,0,,Tengo que ir tras él.
@@ -571,7 +570,7 @@ Dialogue: 0,0:34:28.03,0:34:29.69,Default,,0,0,0,,¿Tú ya tuviste uno, Chika?
 Dialogue: 0,0:34:30.13,0:34:30.87,Default,,0,0,0,,¿Quieres saber?
 Dialogue: 0,0:34:30.87,0:34:32.69,Default,,0,0,0,,¡No quiere!
 Dialogue: 0,0:34:30.87,0:34:32.69,Default,,0,0,0,,{\an8}¡No quiere saber!
-Dialogue: 0,0:34:33.30,0:34:35.19,Default,,0,0,0,,¿Por qué van a limpiar el baño ahora?
+Dialogue: 0,0:34:33.30,0:34:35.19,Default,,0,0,0,,¿Por qué no van a limpiar el baño ahora?
 Dialogue: 0,0:34:35.99,0:34:37.43,Default,,0,0,0,,¡¿En serio te hizo eso?!
 Dialogue: 0,0:34:37.43,0:34:38.67,Default,,0,0,0,,¿De verdad?
 Dialogue: 0,0:34:38.67,0:34:39.70,Default,,0,0,0,,Por supuesto.
@@ -630,8 +629,8 @@ Dialogue: 0,0:37:12.89,0:37:15.43,Default,,0,0,0,,Los dioses hacen lo que quiere
 Dialogue: 0,0:37:15.43,0:37:16.15,Default,,0,0,0,,¿Dioses?
 Dialogue: 0,0:37:16.15,0:37:18.40,Default,,0,0,0,,Ese puente lleva a Kobe.
 Dialogue: 0,0:37:18.40,0:37:19.54,Default,,0,0,0,,Deberíamos...
-Dialogue: 0,0:37:19.54,0:37:20.26,Default,,0,0,0,,Suzume.
-Dialogue: 0,0:37:20.26,0:37:21.90,Default,,0,0,0,,Ya te vas, ¿no?
+Dialogue: 0,0:37:19.54,0:37:20.26,Default,,0,0,0,,{\i1}Suzume.
+Dialogue: 0,0:37:20.26,0:37:21.90,Default,,0,0,0,,{\i1}Ya te vas, ¿no?
 Dialogue: 0,0:37:22.89,0:37:24.44,Default,,0,0,0,,Sí, solo me estoy vistiendo.
 Dialogue: 0,0:37:24.44,0:37:25.95,Default,,0,0,0,,Perfecto.
 Dialogue: 0,0:37:25.95,0:37:27.64,Default,,0,0,0,,Usa estos, si quieres.
@@ -714,7 +713,7 @@ Dialogue: 0,0:41:40.41,0:41:42.06,Default,,0,0,0,,Tú serás en Monte Fuji, ¿ya
 Dialogue: 0,0:41:42.06,0:41:43.81,Default,,0,0,0,,¿Listos? ¡Ya!
 Dialogue: 0,0:41:49.54,0:41:50.81,Default,,0,0,0,,{\an8}¡Ven aquí!
 Dialogue: 0,0:41:50.00,0:41:50.81,Default,,0,0,0,,{\i1}No creo...
-Dialogue: 0,0:41:50.81,0:41:52.77,Default,,0,0,0,,{\an8}¡Ven aquí!
+Dialogue: 0,0:41:50.81,0:41:52.77,Default,,0,0,0,,{\an8}¡Atrápame!
 Dialogue: 0,0:41:51.49,0:41:53.39,Default,,0,0,0,,{\i1}ser buena con los niños.
 Dialogue: 0,0:41:54.18,0:41:55.50,Default,,0,0,0,,Necesitas ayuda.
 Dialogue: 0,0:41:59.69,0:42:01.46,Default,,0,0,0,,¿Qué estás...?
@@ -852,7 +851,7 @@ Dialogue: 0,0:47:33.22,0:47:34.38,Default,,0,0,0,,Sí me puedo mover bien.
 Dialogue: 0,0:47:34.38,0:47:35.69,Default,,0,0,0,,¡Me podría acostumbrar a esto!
 Dialogue: 0,0:47:36.29,0:47:37.69,Default,,0,0,0,,No fallaré otra vez.
 Dialogue: 0,0:47:54.87,0:47:55.77,Default,,0,0,0,,Suzume.
-Dialogue: 0,0:47:55.77,0:47:57.19,Default,,0,0,0,,¡Eres muy buena!
+Dialogue: 0,0:47:55.77,0:47:57.19,Default,,0,0,0,,¡Eres increíble!
 Dialogue: 0,0:48:00.23,0:48:01.23,Default,,0,0,0,,¡Daijin!
 Dialogue: 0,0:48:05.45,0:48:08.98,Default,,0,0,0,,¡Hoy me devolverás mi cuerpo!
 Dialogue: 0,0:48:23.77,0:48:24.98,Default,,0,0,0,,¡Mira, las luces!
