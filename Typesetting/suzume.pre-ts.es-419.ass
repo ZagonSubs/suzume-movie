@@ -15,150 +15,138 @@ Style: Default,Google Sans Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H32000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:04:58.65,0:05:00.40,Default,,0,0,0,,{\pos(972.81,215.93)}Guía e información turística
-Comment: 0,0:04:58.65,0:05:00.40,Default,,0,0,0,,{\fs30\pos(582.08,417.63)}El hotel Kadonami Garden\Nestá rodeado de naturaleza\Ny un jardín botánico\Nlleno de diversión.
-Comment: 0,0:04:58.65,0:05:00.40,Default,,0,0,0,,{\fs30\pos(831.89,481.66)}Jardín del hotel\N Kadonami
-Comment: 0,0:05:02.90,0:05:05.15,Default,,0,0,0,,{\pos(964.8,499.27)}NO PASAR
-Comment: 0,0:05:02.90,0:05:05.15,Default,,0,0,0,,{\fs30\pos(961.6,369.61)}SOLO PERSONAL AUTORIZADO
-Comment: 0,0:08:53.38,0:08:54.50,Default,,0,0,0,,AVISO DE TERREMOTO
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(652.54,662.55)}EN VIVO
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(617.31,166.3)}[EN VIVO] Información del terremoto
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(807.87,227.13)}Sismo de 6 grados en Miyazaki
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(763.03,494.46)}Alrededor de las 1:20 PM
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(772.64,544.08)}6.3 grados Richter
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(806.27,609.71)}Intensidad\Ndel terremoto
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(601.87,279.13)}REPORTE\NESPECIAL
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(1247.21,421.6)}Afecta a las ciudades de\NMiyazaki, Kunihou,\NKi y Kadonami.
-Comment: 0,0:15:13.20,0:15:17.06,Default,,0,0,0,,{\fs30\pos(715.87,327.13)}No hay alarmas de tsunamis
-Comment: 0,0:19:10.35,0:19:12.35,Default,,0,0,0,,{\pos(1300,337)\fs30}NO SE PERMITEN\NANIMALES
-Comment: 0,0:24:18.85,0:24:21.85,Default,,0,0,0,,{\fs40\pos(897.2,149.4)}Este gatito tiene\Nunas orejas muy bonitas!! {el script en inglés (y español) hacen referencia a Mimi no Sumaweta (1995)}
-Comment: 0,0:24:18.88,0:24:21.85,Default,,0,0,0,,{\fs40\pos(1066.94,784.91)}No recordaba que el lugar fuera tan grande {?}
-Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(955.2,521.68)}Es tan lindo...\NHa estado junto a mí por bastante tiempo\N#ConDaijin
-Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(473.2,150.29)}Cancelar
-Comment: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(758.24,254.34)}Responder al Tweet anterior {check pls, no uso la app del pajaro en español}
-Comment: 0,0:24:40.40,0:24:41.06,Default,,0,0,0,,{\pos(247.41,289.57)}Tu historia {sonido de Twitter en Instagram}
-Comment: 0,0:24:41.06,0:24:41.73,Default,,0,0,0,,{\pos(987.22,428.84)}Tweet enviado. {sonido de iOS en Android}
-Comment: 0,0:24:41.06,0:24:41.73,Default,,0,0,0,,{\pos(1033.67,694.57)}Miren a este hermoso gato!!\NSus bigotes se parecen al de un ministro
-Comment: 0,0:24:41.73,0:24:42.65,Default,,0,0,0,,{\fs40\pos(854.31,707.38)}Me atrevo a decirlo.\NTuve un hermoso encuentro durante mi viaje {en referencia a que puede que esté engañando a su pareja}
-Comment: 0,0:24:41.92,0:24:42.65,Default,,0,0,0,,{\fs40\pos(939.18,500.88)}Post publicado. {sonido de Android en un iPhone} {quién es el diseñador de sonido para pegarle? xd}
-Comment: 0,0:24:45.90,0:24:46.52,Default,,0,0,0,,{\fs40\pos(622.12,97.47)}Miren quién es
-Comment: 0,0:24:45.90,0:24:46.52,Default,,0,0,0,,{\fs40\pos(1120.14,151.9)}#ConDaijin
-Comment: 0,0:24:46.52,0:24:46.56,Default,,0,0,0,,{\fs40\pos(591.69,473.66)}Miren quién es
-Comment: 0,0:24:46.52,0:24:46.56,Default,,0,0,0,,{\fs40\pos(1038.47,510.48)}#ConDaijin
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(641.33,801.82)}#ConDaijin
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(743.81,713.78)}Parece que estás bien alimentado.\NEspero que te vaya bien en tu viaje...
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(735.81,167.9)}Mi gato es bien lindo,\Npero este también lo es~~
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(706.99,241.54)}(alguien dígame su raza pls)
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(987.21,352)}#ConDaijin
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(987.21,352)}#ConDaijin
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(522.82,319.98)}#gato
-Comment: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(724.59,331.19)}#raza
-Comment: 0,0:24:46.60,0:24:46.63,Default,,0,0,0,,{\fs40\pos(894.35,524.88)}#ConDaijin
-Comment: 0,0:24:46.60,0:24:46.63,Default,,0,0,0,,{\fs40\pos(791.86,476.85)}Me pregunto si el gato que vi hace un rato\Nera Daijin...
-Comment: 0,0:24:46.65,0:24:46.69,Default,,0,0,0,,{\fs40\pos(694.18,715.38)}#ConDaijin
-Comment: 0,0:24:46.65,0:24:46.69,Default,,0,0,0,,{\fs40\pos(742.22,628.94)}Me pregunto si estará bien...
-Comment: 0,0:24:46.65,0:24:46.69,Default,,0,0,0,,{\fs40\pos(774.25,452.85)}Hace tiempo me encontré un gato así\Ncreo que era calico {recheck}
-Comment: 0,0:24:46.79,0:24:47.65,Default,,0,0,0,,{\fs40\pos(615.71,97.47)}Bajando del tren
-Comment: 0,0:24:46.79,0:24:47.65,Default,,0,0,0,,{\fs40\pos(939.18,118.28)}#ConDaijin
-Comment: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(690.98,299.17)}Me conseguiré un gato
-Comment: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(690.98,222.33)}Ya estoy curada... {???}
-Comment: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(662.16,395.22)}#ConDaijin
-Comment: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(553.27,465.66)}#Sana
-Comment: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(612.52,797.03)}Cuántos años tendrá...
-Comment: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(790.27,534.49)}#ConDaijin
-Comment: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(538.86,513.68)}#gato
-Comment: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(559.68,260.75)}Gatito
-Comment: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(628.54,360)}A dónde vas??
-Comment: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(625.34,432.04)}Ven a mi casa
-Comment: 0,0:24:47.77,0:24:47.82,Default,,0,0,0,,{\fs40\pos(698.99,561.7)}#ConDaijin
-Comment: 0,0:24:47.77,0:24:47.82,Default,,0,0,0,,{\fs40\pos(588.5,376.01)}¡¡¡Gatito!!!
-Comment: 0,0:24:47.82,0:24:47.85,Default,,0,0,0,,{\fs40\pos(546.87,752.2)}¡¡¡Gatito!!!
-Comment: 0,0:24:47.90,0:24:48.91,Default,,0,0,0,,{\fs40\pos(1035.27,116.68)}#ConDaijin
-Comment: 0,0:24:47.90,0:24:48.91,Default,,0,0,0,,{\fs40\pos(631.73,99.07)}¡Conductor! {¡Jefe de estación Gato!}
-Comment: 0,0:24:49.08,0:24:49.67,Default,,0,0,0,,{\fs40\pos(623.72,108.68)}Comiending {sí.}
-Comment: 0,0:24:49.08,0:24:49.67,Default,,0,0,0,,{\fs40\pos(1084.91,134.29)}#ConDaijin
-Comment: 0,0:24:49.86,0:24:50.38,Default,,0,0,0,,{\fs40\pos(606.11,97.47)}Hermoso!!
-Comment: 0,0:24:49.86,0:24:50.38,Default,,0,0,0,,{\fs40\pos(956.8,123.08)}#ConDaijin
-Comment: 0,0:24:50.58,0:24:52.15,Default,,0,0,0,,{\fs40\pos(638.13,105.48)}Es astuto...
-Comment: 0,0:24:50.58,0:24:52.15,Default,,0,0,0,,{\fs40\pos(1115.33,127.88)}#ConDaijin
-Comment: 0,0:25:22.92,0:25:24.13,Default,,0,0,0,,[I JUST SAW SOMETHING CRAZY!]
+Dialogue: 0,0:04:58.65,0:05:00.40,Default,,0,0,0,,{\pos(972.81,215.93)}Guía e información turística
+Dialogue: 0,0:04:58.65,0:05:00.40,Default,,0,0,0,,{\fs30\pos(582.08,417.63)}El hotel Kadonami Garden\Nestá rodeado de naturaleza\Ny un jardín botánico\Nlleno de diversión.
+Dialogue: 0,0:04:58.65,0:05:00.40,Default,,0,0,0,,{\fs30\pos(831.89,481.66)}Jardín del hotel\N Kadonami
+Dialogue: 0,0:05:02.90,0:05:05.15,Default,,0,0,0,,{\pos(964.8,499.27)}NO PASAR
+Dialogue: 0,0:05:02.90,0:05:05.15,Default,,0,0,0,,{\fs30\pos(961.6,369.61)}SOLO PERSONAL AUTORIZADO
+Dialogue: 0,0:08:53.38,0:08:54.50,Default,,0,0,0,,{\an8}AVISO DE TERREMOTO
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(652.54,662.55)}EN VIVO
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(617.31,166.3)}[EN VIVO] Información del terremoto
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(807.87,227.13)}Sismo de 6 grados en Miyazaki
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(763.03,494.46)}Alrededor de las 1:20 PM
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(772.64,544.08)}6.3 grados Richter
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(806.27,609.71)}Intensidad\Ndel terremoto
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(601.87,279.13)}REPORTE\NESPECIAL
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(1247.21,421.6)}Afecta a las ciudades de\NMiyazaki, Kunihou,\NKi y Kadonami.
+Dialogue: 0,0:15:12.31,0:15:17.06,Default,,0,0,0,,{\fs30\pos(715.87,327.13)}No hay alarmas de tsunamis
+Dialogue: 0,0:19:10.35,0:19:12.35,Default,,0,0,0,,{\pos(1300,337)\fs30}NO SE PERMITEN\NANIMALES
+Dialogue: 0,0:24:18.85,0:24:21.85,Default,,0,0,0,,{\fs40\pos(897.2,149.4)}Este gatito tiene\Nunas orejas muy bonitas!! {el script en inglés (y español) hacen referencia a Mimi no Sumaweta (1995)}
+Dialogue: 0,0:24:18.88,0:24:21.85,Default,,0,0,0,,{\fs40\pos(1066.94,784.91)}No recordaba que el lugar fuera tan grande {?}
+Dialogue: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(955.2,521.68)}Es tan lindo...\NHa estado junto a mí por bastante tiempo\N#ConDaijin
+Dialogue: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(473.2,150.29)}Cancelar
+Dialogue: 0,0:24:38.65,0:24:40.40,Default,,0,0,0,,{\pos(758.24,254.34)}Responder al Tweet anterior {check pls, no uso la app del pajaro en español}
+Dialogue: 0,0:24:40.40,0:24:41.06,Default,,0,0,0,,{\pos(247.41,289.57)}Tu historia {sonido de Twitter en Instagram}
+Dialogue: 0,0:24:41.06,0:24:41.73,Default,,0,0,0,,{\pos(987.22,428.84)}Tweet enviado. {sonido de iOS en Android}
+Dialogue: 0,0:24:41.06,0:24:41.73,Default,,0,0,0,,{\pos(1033.67,694.57)}Miren a este hermoso gato!!\NSus bigotes se parecen al de un ministro
+Dialogue: 0,0:24:41.73,0:24:42.65,Default,,0,0,0,,{\fs40\pos(854.31,707.38)}Me atrevo a decirlo.\NTuve un hermoso encuentro durante mi viaje {en referencia a que puede que esté engañando a su pareja}
+Dialogue: 0,0:24:41.92,0:24:42.65,Default,,0,0,0,,{\fs40\pos(939.18,500.88)}Post publicado. {sonido de Android en un iPhone} {quién es el diseñador de sonido para pegarle? xd}
+Dialogue: 0,0:24:45.90,0:24:46.52,Default,,0,0,0,,{\fs40\pos(622.12,97.47)}Miren quién es
+Dialogue: 0,0:24:45.90,0:24:46.52,Default,,0,0,0,,{\fs40\pos(1120.14,151.9)}#ConDaijin
+Dialogue: 0,0:24:46.52,0:24:46.56,Default,,0,0,0,,{\fs40\pos(591.69,473.66)}Miren quién es
+Dialogue: 0,0:24:46.52,0:24:46.56,Default,,0,0,0,,{\fs40\pos(1038.47,510.48)}#ConDaijin
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(641.33,801.82)}#ConDaijin
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(743.81,713.78)}Parece que estás bien alimentado.\NEspero que te vaya bien en tu viaje...
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(735.81,167.9)}Mi gato es bien lindo,\Npero este también lo es~~
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(706.99,241.54)}(alguien dígame su raza pls)
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(987.21,352)}#ConDaijin
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(987.21,352)}#ConDaijin
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(522.82,319.98)}#gato
+Dialogue: 0,0:24:46.56,0:24:46.62,Default,,0,0,0,,{\fs40\pos(724.59,331.19)}#raza
+Dialogue: 0,0:24:46.60,0:24:46.63,Default,,0,0,0,,{\fs40\pos(894.35,524.88)}#ConDaijin
+Dialogue: 0,0:24:46.60,0:24:46.63,Default,,0,0,0,,{\fs40\pos(791.86,476.85)}Me pregunto si el gato que vi hace un rato\Nera Daijin...
+Dialogue: 0,0:24:46.65,0:24:46.69,Default,,0,0,0,,{\fs40\pos(694.18,715.38)}#ConDaijin
+Dialogue: 0,0:24:46.65,0:24:46.69,Default,,0,0,0,,{\fs40\pos(742.22,628.94)}Me pregunto si estará bien...
+Dialogue: 0,0:24:46.65,0:24:46.69,Default,,0,0,0,,{\fs40\pos(774.25,452.85)}Hace tiempo me encontré un gato así\Ncreo que era calico {recheck}
+Dialogue: 0,0:24:46.79,0:24:47.65,Default,,0,0,0,,{\fs40\pos(615.71,97.47)}Bajando del tren
+Dialogue: 0,0:24:46.79,0:24:47.65,Default,,0,0,0,,{\fs40\pos(939.18,118.28)}#ConDaijin
+Dialogue: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(690.98,299.17)}Me conseguiré un gato
+Dialogue: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(690.98,222.33)}Ya estoy curada... {???}
+Dialogue: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(662.16,395.22)}#ConDaijin
+Dialogue: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(553.27,465.66)}#Sana
+Dialogue: 0,0:24:47.69,0:24:47.73,Default,,0,0,0,,{\fs40\pos(612.52,797.03)}Cuántos años tendrá...
+Dialogue: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(790.27,534.49)}#ConDaijin
+Dialogue: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(538.86,513.68)}#gato
+Dialogue: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(559.68,260.75)}Gatito
+Dialogue: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(628.54,360)}A dónde vas??
+Dialogue: 0,0:24:47.73,0:24:47.78,Default,,0,0,0,,{\fs40\pos(625.34,432.04)}Ven a mi casa
+Dialogue: 0,0:24:47.77,0:24:47.82,Default,,0,0,0,,{\fs40\pos(698.99,561.7)}#ConDaijin
+Dialogue: 0,0:24:47.77,0:24:47.82,Default,,0,0,0,,{\fs40\pos(588.5,376.01)}¡¡¡Gatito!!!
+Dialogue: 0,0:24:47.82,0:24:47.85,Default,,0,0,0,,{\fs40\pos(546.87,752.2)}¡¡¡Gatito!!!
+Dialogue: 0,0:24:47.90,0:24:48.91,Default,,0,0,0,,{\fs40\pos(1035.27,116.68)}#ConDaijin
+Dialogue: 0,0:24:47.90,0:24:48.91,Default,,0,0,0,,{\fs40\pos(631.73,99.07)}¡Conductor! {¡Jefe de estación Gato!}
+Dialogue: 0,0:24:49.08,0:24:49.67,Default,,0,0,0,,{\fs40\pos(623.72,108.68)}Comiending {sí.}
+Dialogue: 0,0:24:49.08,0:24:49.67,Default,,0,0,0,,{\fs40\pos(1084.91,134.29)}#ConDaijin
+Dialogue: 0,0:24:49.86,0:24:50.38,Default,,0,0,0,,{\fs40\pos(606.11,97.47)}Hermoso!!
+Dialogue: 0,0:24:49.86,0:24:50.38,Default,,0,0,0,,{\fs40\pos(956.8,123.08)}#ConDaijin
+Dialogue: 0,0:24:50.58,0:24:52.15,Default,,0,0,0,,{\fs40\pos(638.13,105.48)}Es astuto...
+Dialogue: 0,0:24:50.58,0:24:52.15,Default,,0,0,0,,{\fs40\pos(1115.33,127.88)}#ConDaijin
+Comment: 0,0:25:22.90,0:25:23.94,Default,,0,0,0,,[I JUST SAW SOMETHING CRAZY!]
 Comment: 0,0:25:24.38,0:25:25.21,Default,,0,0,0,,[I SAW IT TOO!]
 Comment: 0,0:25:25.46,0:25:26.29,Default,,0,0,0,,[MYSTERY GIRL AND MOVING CHAIR]
 Comment: 0,0:25:26.63,0:25:27.13,Default,,0,0,0,,[NEW ROBOT FROM BOST*N DYNAMICS...?!]
 Comment: 0,0:25:27.42,0:25:28.38,Default,,0,0,0,,[SEND ME INFO!]
-Comment: 0,0:25:54.40,0:25:57.65,Default,,0,0,0,,["DAIJIN" APPEARS ON TANGERINE FARM\N#WithDaijin]
+Dialogue: 0,0:25:54.40,0:25:57.65,Default,,0,0,0,,{\fs40\pos(959.33,673.88)}"Daijin" aparece en una granja\Nde mandarinas
+Dialogue: 0,0:25:54.40,0:25:57.65,Default,,0,0,0,,{\fs40\pos(817.33,811.88)}#ConDaijin
 Comment: 0,0:28:21.50,0:28:22.96,Default,,0,0,0,,flojera
-Comment: 0,0:28:47.13,0:28:49.58,Default,,0,0,0,,{\fs40\pos(1291.48,283.17)}Escuela primaria Kasuga
-Comment: 0,0:32:00.27,0:32:11.02,Default,,0,0,0,,{\fs30\pos(801.46,777.81)}Gerente de\NAsuntos Generales
-Comment: 0,0:32:18.77,0:32:20.02,Default,,0,0,0,,{\fs40\pos(698.98,105.48)}Por favor, no dejes de escribirme.
-Comment: 0,0:32:18.77,0:32:20.02,Default,,0,0,0,,{\fs40\pos(753.43,316.79)}Llamada de voz
-Comment: 0,0:32:18.77,0:32:18.96,Default,,0,0,0,,{\fs40\pos(819.08,600.13)}¡Disculpa por colgarte!
-Comment: 0,0:32:18.96,0:32:20.02,Default,,0,0,0,,{\fs40\pos(1286.67,504.08)}¡Disculpa por colgarte!
-Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1229.02,441.64)}¡Estoy bien!
-Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1126.53,585.71)}¡Volveré a casa sana y salva!
-Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1027.25,345.6)}¡Disculpa por colgarte!
-Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(905.56,185.52)}Llamada de voz
-Comment: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(839.9,68.66)}Por favor, no dejes de escribirme.
-Comment: 0,0:32:26.21,0:32:27.78,Default,,0,0,0,,{\fs40\pos(1126.53,585.71)}¡No te preocupes, por favor!
-Comment: 0,0:32:29.50,0:32:30.52,Default,,0,0,0,,{\fs30\pos(931.17,587.31)}Visto {leído?}
-Comment: 0,0:32:56.04,0:32:59.27,Default,,0,0,0,,{\pos(862.32,363.2)}Posada Amabe
-Comment: 0,0:33:34.94,0:33:40.69,Default,,0,0,0,,{\fs50\pos(491.67,166.5)}Tamaki-san
+Dialogue: 0,0:28:47.13,0:28:49.58,Default,,0,0,0,,{\fs40\pos(1291.48,283.17)}Escuela primaria Kasuga
+Dialogue: 0,0:32:00.27,0:32:11.02,Default,,0,0,0,,{\fs30\pos(801.46,777.81)}Gerente de\NAsuntos Generales
+Dialogue: 0,0:32:18.77,0:32:20.02,Default,,0,0,0,,{\fs40\pos(698.98,105.48)}Por favor, no dejes de escribirme.
+Dialogue: 0,0:32:18.77,0:32:20.02,Default,,0,0,0,,{\fs40\pos(753.43,316.79)}Llamada de voz
+Dialogue: 0,0:32:18.77,0:32:18.96,Default,,0,0,0,,{\fs40\pos(819.08,600.13)}¡Disculpa por colgarte!
+Dialogue: 0,0:32:18.96,0:32:20.02,Default,,0,0,0,,{\fs40\pos(1286.67,504.08)}¡Disculpa por colgarte!
+Dialogue: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1229.02,441.64)}¡Estoy bien!
+Dialogue: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1126.53,585.71)}¡Volveré a casa sana y salva!
+Dialogue: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(1027.25,345.6)}¡Disculpa por colgarte!
+Dialogue: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(905.56,185.52)}Llamada de voz
+Dialogue: 0,0:32:25.02,0:32:25.58,Default,,0,0,0,,{\fs40\pos(839.9,68.66)}Por favor, no dejes de escribirme.
+Dialogue: 0,0:32:26.21,0:32:27.78,Default,,0,0,0,,{\fs40\pos(1126.53,585.71)}¡No te preocupes, por favor!
+Dialogue: 0,0:32:29.50,0:32:30.52,Default,,0,0,0,,{\fs30\pos(931.17,587.31)}Visto {leído?}
+Dialogue: 0,0:32:56.04,0:32:59.27,Default,,0,0,0,,{\pos(862.32,363.2)}Posada Amabe
+Dialogue: 0,0:33:34.94,0:33:40.69,Default,,0,0,0,,{\fs50\pos(491.67,166.5)}Tamaki-san
 Comment: 0,0:33:34.94,0:33:38.96,Default,,0,0,0,,{\pos(1194.18,651.54)}鈴芽、口うるさいと思われたくはな いけれど、いろいろ考えた末、やっ ぱり鈴芽には分かってもらいたい と思い、これを書いています。 最後 まで読んでもらえると嬉しいです。 まず鈴芽に理解してほしいのは、 あなたはまだ子供、 未成年だとい うことです。 鈴芽はちゃんとしっ かりした子だとは思うけれど、 - 般的にも経済的にも身体的にも、 17歳というのはやはりまだ子供です。 あなたは未成年であり、 色々な考え方はあると思うけれ ど、私はあなたの保護者であり、 法的な監督責任があります。 た とえ法律が関係なくても、私に とってあなたはなによりも大事な 姪であり、 鈴芽がきちんとした 大人になるまで、私には鈴芽を そばで見守る義務があります。 なので、保護者である私は口う るさいことも言うし、 あなたの生活にも干渉する。 わずらわし いかもしれないし過保護にもほ どがあると感じるかもしれませ んが、すべてあなたを思っての ことだと理解してください。\N\Nだからこそ、心を鬼にして言いま すが、この2日間のあなたの身勝 手な行動でまわりにどれだけの 迷惑や心配をかけているか、あな たはわかっているでしょうか。 急 に絢ちゃんの家に泊まるとはい え、絢ちゃん家にだって都合が あるだろうし、今日なんて無断るなんて、心底驚きました。 いつ からあなたはそこまで自分勝手 な子になってしまったのですか。 お友達や学校に迷惑をかけてま で遊び回って、そんなに面白いで すか。 どうしてしまったのですか。 なにより、玄関の男物の靴の件で すが、やっぱり、 誰か変な男の人 と付き合ったりしていませんか? さっきの電話で旅行と言っていま したが、まさかその男の人と一緒 にいたりしないですよね? 昨日家を飛び出してから、 あなたが騒ぎ ながらあちこち走り回っていたと いう話も聞きましたが、 なにか変 なクスリとかやらされていないで すよね?\N\Nましてや、あんな大きな地震の 後です。 けがはしていないと言っ ていましたが、 救急箱のこととい い 階段には血の跡もあったし、 鈴芽がなにか危険な目に遭って いるのではないかと思うと、 心 配で仕方がありません。 それは あなたにもわかりますよね?\Nあなたの交友関係にまで口を出 したくはないし、その人がどうい う人なのかも知りませんが、 保 護者に黙って女の子を連れ出す ような男にろくな人はいません。\Nいつも言っていますが、世の中に は鈴芽のような子を狙って騙し てくる危ない男が多いということ を忘れないでください。 いまは 楽しいかもしれませんが、あとで 後悔するのはあなたです。 あな たにはそんな思いをしてほしく ない。 今ならまだ引き返せるは ずだから、私のこのLINEをよ 読んで、もう一度考えてください 私は鈴芽を信じているし、鈴芽が大丈夫と言うのなら、あなたが自 分のふるまいを反省して、 明日に は自分から帰ってくるのを待って いようと思います。\N最後に。 面倒くさいかもしれませ んが、 私からの電話は必ず出て、 LINEもちゃんと見るように。 帰っ てきたら、全部きちんと説明して ください。
 Comment: 0,0:33:38.96,0:33:40.69,Default,,0,0,0,,Zagon, [13 Jul 2023 00:38:56]\N追伸、私は怒っているわけではあ りません。 ただ混乱して心配して いるんです。\N\Nなぜあなたはそんなそぶりもない ままに急に旅行に行こうなんて\N\NZagon, [13 Jul 2023 00:39:19]\Nたのですか。\N\NZagon, [13 Jul 2023 00:39:30]\Nなのでしょうか。 そんな\N\NZagon, [13 Jul 2023 00:39:37]\Nたことはないし、\N\NZagon, [13 Jul 2023 00:39:49]\Nは必ずしも\N\NZagon, [13 Jul 2023 00:39:56]\Nかった。
-Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(1270.66,150.3)}Sorpresa
-Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(405.93,188.72)}Clima
-Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(412.34,123.09)}Kagawa
-Comment: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(1530.08,115.08)}¡¿Un gato en el puente Akashi Kaikyo?!
-Comment: 0,0:37:09.42,0:37:12.40,Default,,0,0,0,,{\fs40\pos(838.3,153.5)}¡¿Un gato en el puente Akashi Kaikyo?!
-Comment: 0,0:37:59.21,0:38:00.21,Default,,0,0,0,,{\pos(1304.29,598.52)}HACIA\NKOBE
-Comment: 0,0:39:52.58,0:39:53.38,Default,,0,0,0,,[EHIME]
-Comment: 0,0:39:53.58,0:39:54.38,Default,,0,0,0,,[TOKUSHIMA]
-Comment: 0,0:40:01.08,0:40:04.63,Default,,0,0,0,,[KOBE]
-Comment: 0,0:42:12.31,0:42:14.25,Default,,0,0,0,,[BAR HARBOR]
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(1012.84,123.08)}Historial de transacciones
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(976.01,255.95)}MCD Kobe Suma
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(929.58,369.61)}Estación Iyo-Ozu
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(903.96,488.07)}LS Ozu
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(876.74,596.93)}Estación Yawatahama
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(881.55,718.59)}Ferry Shikoku Mikan
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(775.05,805.2)}Shikoku
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(769.45,199.94)}Compra
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(657.36,670.57)}Compra
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(631.74,784.23)}Compra
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(734.23,328)}Boleto
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(684.59,569.71)}Boleto
-Comment: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(697.4,436.85)}Compra
-Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\pos(281.03,110.28)\fs40}AVISO DE CIERRE
-Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs40\pos(317.86,193.52)}Gracias por estos maravillosos 40 años
-Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs30\pos(335.48,438.45)}El parque de diversiones\NKobe Dream Country{check} ha cerrado\Nsus puertas el 31 de agosto del 2011\Ntras 40 años de operaciones.\NMuchas gracias a todos los que\Nnos apoyaron a lo largo de estos años.
-Comment: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs30\pos(434.76,499.28)}La administración
-Comment: 0,0:59:22.94,0:59:24.75,Default,,0,0,0,,{\pos(899.15,377.61)}ARTES SECRETAS\NDE LOS CERRADORES\N\NVOL. 1
-Comment: 0,1:00:22.69,1:00:23.58,Default,,0,0,0,,DIARIO DE LOS CERRADORES
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1818.32,446.8)}Respuestas de exámenes de primaria
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1834.33,118.64)}Para\Nprofesores
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1661.39,273.92)}Enseñanza general
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1571.72,277.12)}Enseñanza general
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1549.56,562.59)}Tokio
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1637.38,550.86)}Tokio
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1340.25,369.68)}Preparación para docentes
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1196.35,372.34)}Preparación para docentes
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(1095.09,371.01)}Preparación para docentes
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(988.5,367.01)}Preparación para docentes
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(880.57,373.67)}Preparación para docentes
-Comment: 0,1:01:38.00,1:01:40.42,Default,,0,0,0,,{\fs30\frz270\pos(769.98,405.64)}Preparación para docentes {me da flojera continuar, más tarde lo hago}
-Comment: 0,1:02:10.19,1:02:11.38,Default,,0,0,0,,{\fs50\pos(1007.18,431.05)}ALERTA DE TERREMOTO
-Comment: 0,1:02:10.19,1:02:11.38,Default,,0,0,0,,{\fs40\pos(1008.61,578.3)}Sistema de alertas tempranas\NTerremoto en Chiyoda-ku, Tokio.\NPrepárese para un terremoto fuerte.
-Comment: 0,1:04:53.96,1:04:54.50,Default,,0,0,0,,{\fs50\pos(741.27,411.04)}ALERTA DE TERREMOTO
-Comment: 0,1:04:53.96,1:04:54.50,Default,,0,0,0,,{\fs40\pos(772.72,546.85)}Sistema de alertas tempranas\NTerremoto en Chiyoda-ku, Tokio.\NPrepárese para un terremoto fuerte.
-Comment: 0,1:15:54.21,1:15:56.04,Default,,0,0,0,,{\pos(1137.27,438.21)}HITSUJIRO MUNAKATA
-Comment: 0,1:25:23.08,1:25:24.21,Default,,0,0,0,,SUELO\NCONTANIMADO
-Comment: 0,1:25:25.54,1:25:26.79,Default,,0,0,0,,ZONA DE EVACUACIÓN MÁS ADELANTE
-Comment: 0,1:25:50.88,1:25:52.33,Default,,0,0,0,,[EARTHQUAKE WARNING INTENSITY 3.0]
-Comment: 0,1:29:59.00,1:30:00.19,Default,,0,0,0,,[EARTHQUAKE WARNING INTENSITY 3.0]
-Comment: 0,1:38:07.90,1:38:13.65,Default,,0,0,0,,COSAS IMPORTANTES DE SUZUME
-Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\pos(759.82,222.91)}Diario {ilustrado}
-Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(834.67,694.36)}Libros de estudio Japonica
-Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(688.45,605.64)}Le pertenece a
-Comment: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(825.97,645.65)}Suzume
-Comment: 0,1:38:27.90,1:38:36.90,Default,,0,0,0,,{\pos(1214.14,306.42)}11 de marzo
-Comment: 0,1:56:02.50,1:56:05.13,Default,,0,0,0,,{\fs40\pos(738.93,515.18)}Cómo ser una enfermera
+Dialogue: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(1270.66,150.3)}Sorpresa
+Dialogue: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(405.93,188.72)}Clima
+Dialogue: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(412.34,123.09)}Kagawa
+Dialogue: 0,0:36:29.73,0:36:35.23,Default,,0,0,0,,{\fs40\pos(1530.08,115.08)}¡¿Un gato en el puente Akashi Kaikyo?!
+Dialogue: 0,0:37:09.42,0:37:12.40,Default,,0,0,0,,{\fs40\pos(838.3,153.5)}¡¿Un gato en el puente Akashi Kaikyo?!
+Dialogue: 0,0:37:59.21,0:38:03.40,Default,,0,0,0,,{\fs50\pos(1340.29,578.52)}HACIA\NKOBE
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(1012.84,123.08)}Historial de transacciones
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(976.01,255.95)}MCD Kobe Suma
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(929.58,369.61)}Estación Iyo-Ozu
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(903.96,488.07)}LS Ozu
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(876.74,596.93)}Estación Yawatahama
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(881.55,718.59)}Ferry Shikoku Mikan
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(775.05,805.2)}Shikoku
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(769.45,199.94)}Compra
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(657.36,670.57)}Compra
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(631.74,784.23)}Compra
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(734.23,328)}Boleto
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(684.59,569.71)}Boleto
+Dialogue: 0,0:43:30.40,0:43:33.65,Default,,0,0,0,,{\fs40\pos(697.4,436.85)}Compra
+Dialogue: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\pos(281.03,110.28)\fs40}AVISO DE CIERRE
+Dialogue: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs40\pos(317.86,193.52)}Gracias por estos maravillosos 40 años
+Dialogue: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs30\pos(335.48,438.45)}El parque de diversiones\NKobe Dream Country{check} ha cerrado\Nsus puertas el 31 de agosto del 2011\Ntras 40 años de operaciones.\NMuchas gracias a todos los que\Nnos apoyaron a lo largo de estos años.
+Dialogue: 0,0:46:38.35,0:46:41.85,Default,,0,0,0,,{\fs30\pos(434.76,499.28)}La administración
+Dialogue: 0,0:59:22.94,0:59:24.75,Default,,0,0,0,,{\pos(899.15,377.61)}ARTES SECRETAS\NDE LOS CERRADORES\N\NVOL. 1
+Dialogue: 0,1:00:22.69,1:00:23.58,Default,,0,0,0,,{\fs50\pos(897.15,173.61)}DIARIO DE LOS CERRADORES
+Dialogue: 0,1:02:10.19,1:02:11.38,Default,,0,0,0,,{\fs50\pos(1007.18,431.05)}ALERTA DE TERREMOTO
+Dialogue: 0,1:02:10.19,1:02:11.38,Default,,0,0,0,,{\fs40\pos(1008.61,578.3)}Sistema de alertas tempranas\NTerremoto en Chiyoda-ku, Tokio.\NPrepárese para un terremoto fuerte.
+Dialogue: 0,1:04:53.96,1:04:54.50,Default,,0,0,0,,{\fs50\pos(741.27,411.04)}ALERTA DE TERREMOTO
+Dialogue: 0,1:04:53.96,1:04:54.50,Default,,0,0,0,,{\fs40\pos(772.72,546.85)}Sistema de alertas tempranas\NTerremoto en Chiyoda-ku, Tokio.\NPrepárese para un terremoto fuerte.
+Dialogue: 0,1:15:54.21,1:15:56.04,Default,,0,0,0,,{\pos(1137.27,438.21)}HITSUJIRO MUNAKATA
+Dialogue: 0,1:25:23.08,1:25:24.21,Default,,0,0,0,,SUELO\NCONTANIMADO
+Dialogue: 0,1:25:25.54,1:25:26.79,Default,,0,0,0,,ZONA DE EVACUACIÓN MÁS ADELANTE
+Dialogue: 0,1:25:50.88,1:25:52.33,Default,,0,0,0,,[EARTHQUAKE WARNING INTENSITY 3.0]
+Dialogue: 0,1:29:59.00,1:30:00.19,Default,,0,0,0,,[EARTHQUAKE WARNING INTENSITY 3.0]
+Dialogue: 0,1:38:07.90,1:38:13.65,Default,,0,0,0,,COSAS IMPORTANTES DE SUZUME
+Dialogue: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\pos(759.82,222.91)}Diario {ilustrado}
+Dialogue: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(834.67,694.36)}Libros de estudio Japonica
+Dialogue: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(688.45,605.64)}Le pertenece a
+Dialogue: 0,1:38:13.65,1:38:16.15,Default,,0,0,0,,{\fs40\pos(825.97,645.65)}Suzume
+Dialogue: 0,1:38:27.90,1:38:36.90,Default,,0,0,0,,{\pos(1214.14,306.42)}11 de marzo
+Dialogue: 0,1:56:02.50,1:56:05.13,Default,,0,0,0,,{\fs40\pos(738.93,515.18)}Cómo ser una enfermera
+Dialogue: 0,1:12:15.29,1:12:17.92,Default,,0,0,0,,{\pos(981.44,135.13)}24 DE MAYO
+Dialogue: 0,1:12:15.29,1:12:17.92,Default,,0,0,0,,{\pos(1138.71,744.13)}HOY MI MAMI ME HIZO\NUNA SILLA MUY BONITA Y...
+Dialogue: 0,0:14:46.81,0:14:49.31,Default,,0,0,0,,{\fs40\pos(601.3,587.32)}Cómo ser una enfermera
