@@ -11,10 +11,10 @@
 - **Versión original:** Sony Pictures Distribution Latin America (english)
 - **Traducción y adaptación:** Zagon
 - **Corrección**: ??
-- **Typesetting**: MrMiniblock
+- **Typesetting**: Ougi, Jaku
 - **Timing**: PerryMason
 - **KFX:** Hime
-- **Encode:** iTunes HK?
+- **Encode:** RaiN
 
 ---
 
